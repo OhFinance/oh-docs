@@ -6,8 +6,8 @@ description: Learn about protocol audits and other steps taken to secure Oh! Fin
 
 ## Audits
 
-* QuantStamp
-* ArmorLabs
+* Halborn: _Audit In Progress_
+* Armor Labs: [https://assets.oh.finance/OhFinance\_ArmorLabs\_Audit.pdf](https://assets.oh.finance/OhFinance_ArmorLabs_Audit.pdf)
 
 ## Insurance
 
