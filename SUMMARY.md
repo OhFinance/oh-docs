@@ -5,7 +5,6 @@
 
 ## Getting Started
 
-* [Benefits & Risks](getting-started/benefits-and-risks.md)
 * [Security](getting-started/security.md)
 * [Roadmap](getting-started/roadmap.md)
 * [Contracts](getting-started/contracts.md)

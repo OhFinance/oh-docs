@@ -6,7 +6,7 @@ description: Learn about protocol audits and other steps taken to secure Oh! Fin
 
 ## Audits
 
-* Halborn: _Audit In Progress_
+* Halborn: [https://assets.oh.finance/OhFinance\_Halborn\_Audit.pdf](https://assets.oh.finance/OhFinance_Halborn_Audit.pdf)
 * Armor Labs: [https://assets.oh.finance/OhFinance\_ArmorLabs\_Audit.pdf](https://assets.oh.finance/OhFinance_ArmorLabs_Audit.pdf)
 
 ## Insurance
