@@ -11,4 +11,3 @@ Protocol Incentives are distributed over three years following a piece-wise func
 * **Year 1** - 12,500,000 OH
 * **Year 2** - 8,000,000 OH
 * **Year 3** - 4,500,000 OH
-

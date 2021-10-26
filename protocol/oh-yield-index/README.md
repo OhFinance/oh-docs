@@ -1,5 +1,5 @@
 ---
-description: 'Optimized, Diversified DeFi Yield Farming'
+description: Optimized, Diversified DeFi Yield Farming
 ---
 
 # Oh! Yield Index
@@ -12,4 +12,3 @@ Users interact with Oh! Finance and earn yield by depositing underlying tokens t
 * [Oh! Strategy](oh-strategy.md) - DeFi Protocol Interaction
 * [Oh! Liquidator](oh-liquidator.md) - Token Swap Management
 * [Oh! Manager](oh-manager.md) - Yield & Revenue Management
-

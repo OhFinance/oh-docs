@@ -6,7 +6,7 @@ description: Autonomous Interest Rate Protocol
 
 ## Website
 
-[https://compound.finance/](https://compound.finance/)
+[https://compound.finance/](https://compound.finance)
 
 ## Type
 
@@ -18,5 +18,4 @@ Compound is a decentralized, money market protocol that allows users to lend and
 
 Compound allows users to borrow up to 80% of their collateral for any supported token. If the borrower's loan value ever exceeds the required collateral factor, the borrower's position can be liquidated to maintain protocol solvency. During liquidation, the liquidator repays the borrower's loan in exchange for a percentage of the borrower's original position.
 
-Users earn the Compound \(COMP\) token for lending/borrowing on the protocol.
-
+Users earn the Compound (COMP) token for lending/borrowing on the protocol.

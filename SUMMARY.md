@@ -9,23 +9,19 @@
 * [Step 1: Install a Wallet 📲](getting-started/step-1-install-a-wallet.md)
 * [Step 2: Acquire USDC 💵](getting-started/step-2-acquire-usdc.md)
 * [Step 3: Deposit on Oh! 📈](getting-started/step-3-deposit-on-oh.md)
-* [Step 4: Boost Your Rewards \(Optional\) 👆](getting-started/step-4-boost-your-rewards-optional.md)
+* [Step 4: Boost Your Rewards (Optional) 👆](getting-started/step-4-boost-your-rewards-optional.md)
 * [Later: Checking-In on Your Oh! Account 👀](getting-started/later-checking-in-on-your-oh-account.md)
 * [Farewell: How to Withdraw Your Assets 💱](getting-started/farewell-how-to-withdraw-your-assets.md)
 
 ## General 📖
 
 * [About Oh! Finance](general/about-oh-finance.md)
-* [Oh! Tokenomics](general/oh-tokenomics.md)
 * [Security](general/security.md)
 * [Benefits & Risks](general/benefits-and-risks.md)
-* [Roadmap](general/roadmap.md)
 * [Contract Addresses](general/contracts.md)
-* [Other How-To's](general/other-how-tos/README.md)
-  * [Resolve XYZ Sample Error](general/other-how-tos/resolve-xyz-sample-error.md)
 * [FAQ](general/faq.md)
 
-## Advanced: Protocol Detail <a id="protocol"></a>
+## Advanced: Protocol Detail <a href="protocol" id="protocol"></a>
 
 * [Oh! Yield Index](protocol/oh-yield-index/README.md)
   * [Oh! Bank](protocol/oh-yield-index/oh-bank.md)
@@ -47,13 +43,12 @@
 
 ## Community & Socials 📣
 
-* [Oh! Finance Communities](community-and-socials/oh-finance-communities.md)
 * [Twitter](https://twitter.com/OhFinanceDefi)
-* [Medium](https://ohfinance.medium.com/)
-* [Telegram](https://t.me)
+* [Medium](https://ohfinance.medium.com)
+* [Telegram Community](https://t.me)
+* [Telegram Announcements](https://t.me/OHFinanceAnnouncements)
 * [Contact Us](community-and-socials/contact-us.md)
 
----
+***
 
 * [Terms of Service](terms-of-service.md)
-

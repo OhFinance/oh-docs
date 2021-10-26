@@ -11,7 +11,7 @@ The `OhToken` is a standard ERC-20 token that is used by the protocol for Govern
 * `decimals` - 18
 * `totalSupply` - 100,000,000
 
-The Oh! Finance Token supports calling the `permit()` function \(EIP-2612 Compliant\) for signature-based approvals.
+The Oh! Finance Token supports calling the `permit()` function (EIP-2612 Compliant) for signature-based approvals.
 
 ## Governance
 
@@ -30,4 +30,3 @@ Oh! Finance Tokens are used as a proxy for protocol revenue. A percentage of tot
 {% hint style="info" %}
 More information can be found on the buyback & burn mechanism in the [Oh! Manager](oh-yield-index/oh-manager.md) section.
 {% endhint %}
-

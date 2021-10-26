@@ -14,18 +14,18 @@ Although we go to great lengths to secure Oh funds and protocols, please do your
 
 Oh Finance has received a "thumbs up" audit by ArmorLabs, and we have also submitted to QuantStamp for an independent second audit.
 
-A smart contract security audit is a technical assessment of a blockchain application and related artifacts. The main goal of auditing smart contracts is to detect and eliminate code vulnerabilities \(eg: security bugs\) and also to keep a check on the reliability of the contract’s interactions \(eg: does the contract do what the development team says it will do - and to reduce the possibility of "[rugpulling](https://coinmarketcap.com/alexandria/glossary/rug-pull)"\).
+A smart contract security audit is a technical assessment of a blockchain application and related artifacts. The main goal of auditing smart contracts is to detect and eliminate code vulnerabilities (eg: security bugs) and also to keep a check on the reliability of the contract’s interactions (eg: does the contract do what the development team says it will do - and to reduce the possibility of "[rugpulling](https://coinmarketcap.com/alexandria/glossary/rug-pull)").
 
-### Token Audit & Bank Contract Audit, Conducted by _ArmorLabs_
+### Strategy & Bank Contract Audit, Conducted by _Halborn_
 
 {% hint style="success" %}
-\[Placeholder: put audit report here\]
+[https://assets.oh.finance/OhFinance\_Halborn\_Audit.pdf](https://assets.oh.finance/OhFinance\_Halborn\_Audit.pdf)
 {% endhint %}
 
-### Strategy Audit, Conducted by _QuantStamp_
+### Secondary Audit, Conducted by _Armor Labs_
 
 {% hint style="success" %}
-Placeholder, put Audit report here
+[https://assets.oh.finance/OhFinance\_ArmorLabs\_Audit.pdf](https://assets.oh.finance/OhFinance\_ArmorLabs\_Audit.pdf)
 {% endhint %}
 
 ## Insurance
@@ -36,13 +36,11 @@ Users can choose a dollar amount and time period to insure, then automatically g
 
 More information about how you can insure your Oh! Finance position with Bridge Mutual coming soon.
 
-Visit the Bridge Mutual site to learn more and to purchase or provide coverage: [https://www.bridgemutual.io/](https://www.bridgemutual.io/)
+Visit the Bridge Mutual site to learn more and to purchase or provide coverage: [https://www.bridgemutual.io/](https://www.bridgemutual.io)
 
 ## Protocol Guardian
 
 Under extreme circumstances which require administrative intervention, the Protocol Guardian can assume limited admin capabilities to pause a given Bank and/or Strategy. All deposits to a paused Bank are suspended and all underlying tokens are withdrawn from any affected Strategies to allow user withdrawal. Users maintain the rights to withdraw underlying at any time.
 
 Protocol Guardian rights are currently held by the **Oh! Finance Deployer**.
-
-
 

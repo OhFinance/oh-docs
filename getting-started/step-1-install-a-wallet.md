@@ -22,10 +22,10 @@ Metamask is probably the most popular DeFi wallet on the market. It is well-resp
 {% tab title="Laptop or Desktop - Chrome or Edge Browsers" %}
 
 
-1. \[Copy/Paste installation instructions\]
+1. \[Copy/Paste installation instructions]
 {% endtab %}
 
-{% tab title="Mobile Phone App \(iOS/Android\)" %}
+{% tab title="Mobile Phone App (iOS/Android)" %}
 
 {% endtab %}
 {% endtabs %}
@@ -38,10 +38,10 @@ Save your 12-word phrase in a safe place. General guidance is to write it on pen
 
 The second-most popular Wallet app is called Trust Wallet. It can be downloaded from the Google Play store or the iOS App Store.
 
- Note: if you've already installed Metamask, you do not need to install Trust Wallet. It's recommended to only use one or the other.
+&#x20;Note: if you've already installed Metamask, you do not need to install Trust Wallet. It's recommended to only use one or the other.
 
 {% tabs %}
-{% tab title="iOS \(iPhone/iPad\)" %}
+{% tab title="iOS (iPhone/iPad)" %}
 Copy Paste Instructions...
 {% endtab %}
 
@@ -59,4 +59,3 @@ The DeFi space is so large with so many options and wallet apps, Oh is not here 
 {% hint style="success" %}
 Congrats! You've installed your wallet. Continue on to read about how to get USDC.
 {% endhint %}
-

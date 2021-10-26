@@ -6,7 +6,7 @@ description: The Liquidity Protocol
 
 ## Website
 
-[https://aave.com/](https://aave.com/)
+[https://aave.com/](https://aave.com)
 
 ## Type
 
@@ -18,5 +18,4 @@ AaveV2 is a decentralized, money market protocol that allows users to lend and b
 
 Each token has different liquidation and collateral parameters. If the borrower's loan ever exceeds the required collateral factor, the borrower's position can be liquidated to maintain protocol solvency. During liquidation, the liquidator repays the borrower's loan in exchange for a percentage of the borrower's original position.
 
-Currently, lenders and borrowers passively earn stkAAVE \(Staked AAVE\) tokens which can be unwrapped into AAVE.
-
+Currently, lenders and borrowers passively earn stkAAVE (Staked AAVE) tokens which can be unwrapped into AAVE.

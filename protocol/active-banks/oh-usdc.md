@@ -9,7 +9,7 @@ description: USDC Risk-Optimized Yield Index
 * `name` - Oh! USDC
 * `symbol` - Oh! USDC
 * `decimals` - 6
-* `underlying` - USD Coin \(USDC\)
+* `underlying` - USD Coin (USDC)
 
 ## Strategies
 
@@ -30,4 +30,3 @@ description: USDC Risk-Optimized Yield Index
 * `underlying` - USDC
 * `derivative` - 3CRV
 * `reward` - CRV
-

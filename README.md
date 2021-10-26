@@ -15,4 +15,3 @@ Oh! Finance is a decentralized, yield-generation protocol that offers optimized 
 * Getting a Wallet - Create a wallet address with Metamask
 * Getting the Token - Perform a token swap on Uniswap
 * Launch the App - See the app and interact with Oh! Finance
-

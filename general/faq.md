@@ -4,5 +4,5 @@ description: Frequently Asked Questions
 
 # FAQ
 
-FAQ Coming Soon
+As community questions come in, we will update this page with frequently asked questions...
 

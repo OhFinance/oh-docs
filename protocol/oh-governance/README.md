@@ -10,4 +10,3 @@ Oh! Finance utilizes a Proposer-Executor model to enact network proposals and mo
 
 * [Oh! Forum](oh-forum.md) - Proposer contract that records user proposals and votes
 * [Oh! Governor](oh-governor.md) - Executor contract that queues and executes successful proposals
-

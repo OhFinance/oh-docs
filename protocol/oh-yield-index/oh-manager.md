@@ -13,7 +13,7 @@ Banks are managed by calling any of the following functions:
 * `rebalance()` - Withdraw all underlying, then invest all available underlying on the Bank evenly across all Strategies
 
 {% hint style="info" %}
-Only EOAs \(Externally Owned Addresses, i.e. end-users\) and whitelisted Smart Contracts can call protocol management functions to prevent attacks
+Only EOAs (Externally Owned Addresses, i.e. end-users) and whitelisted Smart Contracts can call protocol management functions to prevent attacks
 {% endhint %}
 
 ## Management Fee
@@ -23,4 +23,3 @@ Any user can call the above functions and be rewarded with **2%** of the total p
 ## **Buyback & Burn**
 
 The Manager accrues **20%** of total profit generated during Bank management as a fee to buyback & burn Oh! Tokens, the `buybackFee`. Any user can trigger the `buyback()` function to use accrued revenue to buyback & burn Oh! Tokens.
-

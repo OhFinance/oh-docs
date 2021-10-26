@@ -14,4 +14,3 @@ Aggregating capital across multiple protocols via yield index passes several ben
 ## Protocol Risks
 
 * **Smart Contract Risk** - While the goal of the protocol's yield indexes are to reduce Smart Contract risk, depositors could still lose some or all funds if underlying protocols' contracts or Oh! Finance's own contracts were exploited.
-
