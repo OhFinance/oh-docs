@@ -11,9 +11,10 @@
 
 ## General 📖
 
-* [Security](general/security.md)
-* [Benefits & Risks](general/benefits-and-risks.md)
 * [Contract Addresses](general/contracts.md)
+* [Security](general/security.md)
+* [Insurance](general/insurance.md)
+* [Benefits & Risks](general/benefits-and-risks.md)
 * [FAQ](general/faq.md)
 
 ## Advanced: Protocol Detail <a href="protocol" id="protocol"></a>
