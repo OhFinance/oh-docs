@@ -10,8 +10,9 @@ Oh! Finance is a decentralized, yield-generation protocol that offers optimized 
 
 ## Quick Links
 
-* [About Oh! Finance](general/about-oh-finance.md) - Learn more about Oh! Finance
-* [FAQ ](general/faq.md)- Read our most frequently asked questions
-* Getting a Wallet - Create a wallet address with Metamask
-* Getting the Token - Perform a token swap on Uniswap
-* Launch the App - See the app and interact with Oh! Finance
+* [About Oh! Finance](protocol/about-oh-finance.md) - Learn more about Oh! Finance
+* [Use Oh.Finance](https://beta.oh.finance) - Click to visit our website (currently in Beta)
+* Get OH tokens&#x20;
+  * ETH Chain - Sushiswap
+  * AVA Chain - Trader Joe
+  * AVA Chain - Pangolin

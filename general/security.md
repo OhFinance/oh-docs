@@ -10,6 +10,10 @@ Security of the Oh protocol and our users is of utmost importance to the team. I
 Although we go to great lengths to secure Oh funds and protocols, please do your own research, and familiarize yourself with the [Terms of Service](../terms-of-service.md) and the [Benefits & Risks](benefits-and-risks.md) of using Oh Finance.
 {% endhint %}
 
+{% hint style="warning" %}
+Nobody on the Oh Finance team will ever ask you for your wallet private key, your 12-word backup phrase, or any account password. Beware of scams!
+{% endhint %}
+
 ## Contract Audits
 
 Oh Finance has received a "thumbs up" audit by ArmorLabs, and we have also submitted to QuantStamp for an independent second audit.

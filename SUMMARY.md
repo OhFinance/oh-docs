@@ -1,21 +1,16 @@
 # Table of contents
 
 * [Welcome to Oh! Finance](README.md)
-* [What is Oh! Finance?](what-is-oh-finance.md)
+* [What is Oh! Finance, How Does it Work?](what-is-oh-finance.md)
 
 ## Getting Started 🔰
 
 * [Intro](getting-started/intro.md)
-* [Step 1: Install a Wallet 📲](getting-started/step-1-install-a-wallet.md)
-* [Step 2: Acquire USDC 💵](getting-started/step-2-acquire-usdc.md)
-* [Step 3: Deposit on Oh! 📈](getting-started/step-3-deposit-on-oh.md)
-* [Step 4: Boost Your Rewards (Optional) 👆](getting-started/step-4-boost-your-rewards-optional.md)
-* [Later: Checking-In on Your Oh! Account 👀](getting-started/later-checking-in-on-your-oh-account.md)
-* [Farewell: How to Withdraw Your Assets 💱](getting-started/farewell-how-to-withdraw-your-assets.md)
+* [Prepare to Deposit USDC to Earn Interest](getting-started/prepare-to-deposit-usdc-to-earn-interest.md)
+* [How to Prepare to buy OH tokens on Avalanche C-Chain](getting-started/how-to-prepare-to-buy-oh-tokens-on-avalanche-c-chain.md)
 
 ## General 📖
 
-* [About Oh! Finance](general/about-oh-finance.md)
 * [Security](general/security.md)
 * [Benefits & Risks](general/benefits-and-risks.md)
 * [Contract Addresses](general/contracts.md)
@@ -23,6 +18,7 @@
 
 ## Advanced: Protocol Detail <a href="protocol" id="protocol"></a>
 
+* [About Oh! Finance](protocol/about-oh-finance.md)
 * [Oh! Yield Index](protocol/oh-yield-index/README.md)
   * [Oh! Bank](protocol/oh-yield-index/oh-bank.md)
   * [Oh! Strategy](protocol/oh-yield-index/oh-strategy.md)
