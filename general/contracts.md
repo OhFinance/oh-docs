@@ -4,14 +4,14 @@ description: Official Addresses of Smart Contracts & Tokens
 
 # Contract Addresses
 
-### ETH Mainnet - Primary Bank Deposit Contract
+### Primary Bank Deposit Contract
 
-* **Oh Bank:** 0xa528639AAe2E765351dcd1e0C2dD299D6279dB52
+* **Oh Bank (ETH Mainnet):** 0xa528639AAe2E765351dcd1e0C2dD299D6279dB52
 
-### **Tokens:**&#x20;
+### **OH Tokens:**&#x20;
 
-* Oh Token - AVAX Mainnet:
+* **OH Token - ETH **(Mainnet): 0x16ba8efe847ebdfef99d399902ec29397d403c30
+* **OH Token - AVAX **(Mainnet): 0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21
 
-### Protocol & Auxiliary Contracts:&#x20;
 
-*
+

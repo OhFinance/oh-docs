@@ -6,8 +6,9 @@
 ## Getting Started 🔰
 
 * [Intro](getting-started/intro.md)
-* [Prepare to Deposit USDC to Earn Interest](getting-started/prepare-to-deposit-usdc-to-earn-interest.md)
+* [Prepare to Deposit USDC](getting-started/prepare-to-deposit-usdc.md)
 * [How to Prepare to buy OH tokens on Avalanche C-Chain](getting-started/how-to-prepare-to-buy-oh-tokens-on-avalanche-c-chain.md)
+* [How to Stake USDC to Earn Interest](getting-started/how-to-stake-usdc-to-earn-interest.md)
 
 ## General 📖
 

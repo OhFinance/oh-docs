@@ -44,7 +44,7 @@ Bank analogy 🏦: A savings account at a big bank in the physical world only gi
 
 Learn more here -&#x20;
 
-{% content-ref url="prepare-to-deposit-usdc-to-earn-interest.md" %}
-[prepare-to-deposit-usdc-to-earn-interest.md](prepare-to-deposit-usdc-to-earn-interest.md)
+{% content-ref url="prepare-to-deposit-usdc.md" %}
+[prepare-to-deposit-usdc.md](prepare-to-deposit-usdc.md)
 {% endcontent-ref %}
 
