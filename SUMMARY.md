@@ -16,6 +16,8 @@
 * [Security](general/security.md)
 * [Insurance](general/insurance.md)
 * [Benefits & Risks](general/benefits-and-risks.md)
+* [Roadmap](general/roadmap.md)
+* [Tokenomics](general/tokenomics.md)
 * [FAQ](general/faq.md)
 
 ## Advanced: Protocol Detail <a href="protocol" id="protocol"></a>
