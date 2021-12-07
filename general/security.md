@@ -48,3 +48,14 @@ Under extreme circumstances which require administrative intervention, the Proto
 
 Protocol Guardian rights are currently held by the **Oh! Finance Deployer**.
 
+## Multi-signature Wallets
+
+Token Rewards, LP Tokens, and other privileges are given to the follow 2/4 multi-signature wallets, managed by Gnosis Safe. Wallet signers are currently consist of members of the core team.
+
+* Treasury: [https://etherscan.io/address/0xDe921b5b1C0dcD2D1C1eef6890E7d23a16A65294](https://etherscan.io/address/0xDe921b5b1C0dcD2D1C1eef6890E7d23a16A65294)
+* Foundation: [https://etherscan.io/address/0xc8a5df8c703139a0e4dffd0bc21f67f20dd49ae9](https://etherscan.io/address/0xc8a5df8c703139a0e4dffd0bc21f67f20dd49ae9)
+* Strategic: [https://etherscan.io/address/0x34e5b09E4da536e9e90af96fCb178C78c2671460](https://etherscan.io/address/0x34e5b09E4da536e9e90af96fCb178C78c2671460)
+* Community: [https://etherscan.io/address/0x3F62aC1a5d25f7c1F94C293D6421A91badF74681](https://etherscan.io/address/0x3F62aC1a5d25f7c1F94C293D6421A91badF74681)
+
+
+

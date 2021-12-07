@@ -20,7 +20,7 @@
 * [Tokenomics](general/tokenomics.md)
 * [FAQ](general/faq.md)
 
-## Advanced: Protocol Detail <a href="protocol" id="protocol"></a>
+## Advanced: Protocol Detail <a href="#protocol" id="protocol"></a>
 
 * [About Oh! Finance](protocol/about-oh-finance.md)
 * [Oh! Yield Index](protocol/oh-yield-index/README.md)
@@ -40,6 +40,7 @@
   * [AaveV2](protocol/defi-protocols/aavev2.md)
   * [Compound](protocol/defi-protocols/compound.md)
   * [Curve](protocol/defi-protocols/curve.md)
+* [APY Calculations](protocol/apy-calculations.md)
 
 ## Community & Socials 📣
 
