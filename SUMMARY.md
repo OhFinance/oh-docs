@@ -45,7 +45,7 @@
 ## Community & Socials 📣
 
 * [Twitter](https://twitter.com/OhFinanceDefi)
-* [Medium](https://ohfinance.medium.com)
+* [Medium](https://ohfinance.medium.com/)
 * [Telegram Community](https://t.me)
 * [Telegram Announcements](https://t.me/OHFinanceAnnouncements)
 * [Contact Us](community-and-socials/contact-us.md)
