@@ -40,6 +40,8 @@
   * [AaveV2](protocol/defi-protocols/aavev2.md)
   * [Compound](protocol/defi-protocols/compound.md)
   * [Curve](protocol/defi-protocols/curve.md)
+  * [Moonwell](protocol/defi-protocols/moonwell.md)
+  * [Solarbeam](protocol/defi-protocols/solarbeam.md)
 * [APY Calculations](protocol/apy-calculations.md)
 
 ## Community & Socials 📣
