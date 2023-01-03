@@ -6,7 +6,7 @@ description: Deep On-Chain Liquidity AMM
 
 ## Website
 
-[https://curve.fi/](https://curve.fi)
+[https://curve.fi/](https://curve.fi/)
 
 ## Type
 

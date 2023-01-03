@@ -1,6 +1,6 @@
 # How to Stake USDC to Earn Interest
 
-Once you've installed a wallet and acquired USDC, you can stake USDC on the Ethereum network and start to earn yield: Deposit USDC in our vault at [beta.oh.finance](https://beta.oh.finance) in 5 easy steps!
+Once you've installed a wallet and acquired USDC, you can stake USDC on the Ethereum network and start to earn yield: Deposit USDC in our vault at [beta.oh.finance](https://beta.oh.finance/) in 5 easy steps!
 
 1. Hit the “+” to open the Deposit modal
 

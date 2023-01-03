@@ -36,6 +36,7 @@
   * [Oh! Pool](protocol/oh-staking/oh-pool.md)
 * [Active Banks](protocol/active-banks/README.md)
   * [Oh! USDC](protocol/active-banks/oh-usdc.md)
+  * [AutOH!matic](protocol/active-banks/autoh-matic.md)
 * [Underlying Protocols](protocol/defi-protocols/README.md)
   * [AaveV2](protocol/defi-protocols/aavev2.md)
   * [Compound](protocol/defi-protocols/compound.md)

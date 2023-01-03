@@ -6,7 +6,7 @@ description: The Liquidity Protocol
 
 ## Website
 
-[https://aave.com/](https://aave.com)
+[https://aave.com/](https://aave.com/)
 
 ## Type
 

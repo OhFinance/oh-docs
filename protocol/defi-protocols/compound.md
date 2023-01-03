@@ -6,7 +6,7 @@ description: Autonomous Interest Rate Protocol
 
 ## Website
 
-[https://compound.finance/](https://compound.finance)
+[https://compound.finance/](https://compound.finance/)
 
 ## Type
 

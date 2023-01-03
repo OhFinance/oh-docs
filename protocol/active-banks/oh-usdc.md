@@ -30,10 +30,3 @@ description: USDC Risk-Optimized Yield Index
 * `underlying` - USDC
 * `derivative` - 3CRV
 * `reward` - CRV
-
-`OH!-tomatic` - Collateralize USDC and borrow MOVR from Moonwell, add USDC-MOVR liquidity to Solarbeam, earn APY in SOLAR, MOVR, and MFAM
-
-* `underlying` - USDC
-* `derivative` - USDC-MOVR SLP (Solarbeam)
-* `reward` - SOLAR
-* `secondaryReward` - MFAM

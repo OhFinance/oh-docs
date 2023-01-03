@@ -14,7 +14,7 @@ The platform will first go live on the Ethereum network and launch shortly after
 
 We try to make earning on Oh Finance as simple and straightforward as possible.
 
-For those new to the DeFi ecosystem, we've tried to have analogies to real-world physical banks 🏦 to help newcomers. If you're a DeFi expert, click through to the relevant section. Please read our primers on Oh! and Stable Coins on our [Medium](https://ohfinance.medium.com).
+For those new to the DeFi ecosystem, we've tried to have analogies to real-world physical banks 🏦 to help newcomers. If you're a DeFi expert, click through to the relevant section. Please read our primers on Oh! and Stable Coins on our [Medium](https://ohfinance.medium.com/).
 
 _(And if you don't know what DeFi means, it stands for Decentralized Finance. It's like saying "in the cryptocurrency world")._
 
@@ -22,7 +22,7 @@ _(And if you don't know what DeFi means, it stands for Decentralized Finance. It
 
 Bank analogy 🏦: Just like your dad's physical leather wallet full of cash, in the DeFi world, a "wallet" is the name given to an app where your cryptocurrencies are held. &#x20;
 
-**Never give someone else access to your wallet or to the wallet's backup/recovery code (often called a **_**passphrase**_**, **_**seed**_**, **_**mnemonic**_**, or **_**private key). **_Whoever is holding the wallet or it's recovery code is able to spend and control the currency.
+**Never give someone else access to your wallet or to the wallet's backup/recovery code (often called a **_**passphrase**_**, **_**seed**_**, **_**mnemonic**_**, or **_**private key).**_ Whoever is holding the wallet or it's recovery code is able to spend and control the currency.
 
 The most common type of wallet is an app installed on your phone or installed as a browser plugin. The most popular wallet app is Metamask - [learn more how to install Metamask from their website here](https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-started-with-MetaMask).
 

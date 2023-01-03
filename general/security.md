@@ -40,7 +40,7 @@ Users can choose a dollar amount and time period to insure, then automatically g
 
 More information about how you can insure your Oh! Finance position with Bridge Mutual coming soon.
 
-Visit the Bridge Mutual site to learn more and to purchase or provide coverage: [https://www.bridgemutual.io/](https://www.bridgemutual.io)
+Visit the Bridge Mutual site to learn more and to purchase or provide coverage: [https://www.bridgemutual.io/](https://www.bridgemutual.io/)
 
 ## Protocol Guardian
 
